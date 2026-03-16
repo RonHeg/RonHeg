@@ -1,4 +1,4 @@
-- Hi, I’m @RonHeg
-- I am a retired Electronic Engineer interested in creating random products.
-- I am creating a series of shields for use with Arduinos that will hopefully help with the development of projects.
+- Hi, I’m @RonHeg (Ron Hegler)
+- I am a semi-retired Electronic Engineer interested in contract engineering work and keeping busy creating personal projects that I hope to turn into products.
+- I have created a series of shields for use with Arduinos that will hopefully help with the development of projects.
 - I can be reached at rjheglertech@gmail.com if you have any questions about the projects I am posting.
